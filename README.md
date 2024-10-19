@@ -4,6 +4,7 @@ This project uses a real-time operating system (RTOS) with priority-based preemp
 ### Project
 ![Gambar Rangkaian](https://github.com/user-attachments/assets/dd41768c-a888-478a-a331-67af3ea452d1)
 ### IOC PIN
+![Pin IOC](https://github.com/user-attachments/assets/7e0124f6-7b3d-4bbf-b9da-c8f4b6155f41)
 ## Demo Task 3
 https://github.com/user-attachments/assets/bc5f28d9-9195-4508-95d1-0561abab2c50
 ## Author
