@@ -1,6 +1,6 @@
 # Task 3 : Priority Preemptive Scheduling
 ## Description
-This project uses a real-time operating system (RTOS) with priority-based preemptive scheduling on an STM32 microcontroller to manage two tasks, namely controlling the LEDs. Higher priority tasks can interrupt lower priority tasks. This task shows how an RTOS works, where higher priority tasks always execute first, while lower priority tasks run when there are no more important tasks.
+Proyek ini menggunakan sistem operasi real-time (RTOS) dengan penjadwalan preemptive berbasis prioritas pada mikrokontroler STM32 untuk mengelola dua tugas, yaitu mengendalikan LED. Tugas dengan prioritas lebih tinggi dapat mengganggu tugas dengan prioritas lebih rendah. Tugas ini menunjukkan cara kerja RTOS, di mana tugas dengan prioritas lebih tinggi selalu dijalankan terlebih dahulu, sedangkan tugas dengan prioritas lebih rendah dijalankan ketika tidak ada tugas yang lebih penting. Disini kami mengontrol led menggunakan pin PA0, PA1, PA4, dan PA5
 ### Project
 ![Gambar Rangkaian](https://github.com/user-attachments/assets/dd41768c-a888-478a-a331-67af3ea452d1)
 ### IOC PIN
